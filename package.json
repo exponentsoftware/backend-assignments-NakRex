@@ -1,0 +1,20 @@
+{
+  "name": "backend-assignments-nakrex",
+  "version": "1.0.0",
+  "description": "## TODO List",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exponentsoftware/backend-assignments-NakRex.git"
+  },
+  "author": "nasim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/exponentsoftware/backend-assignments-NakRex/issues"
+  },
+  "homepage": "https://github.com/exponentsoftware/backend-assignments-NakRex#readme"
+}
