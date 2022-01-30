@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/exponentsoftware/backend-assignments-NakRex/issues"
   },
-  "homepage": "https://github.com/exponentsoftware/backend-assignments-NakRex#readme"
+  "homepage": "https://github.com/exponentsoftware/backend-assignments-NakRex#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.8",
+    "nodemon": "^2.0.15"
+  }
 }
